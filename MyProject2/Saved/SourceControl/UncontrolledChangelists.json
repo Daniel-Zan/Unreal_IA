@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Blueprints/BP_Waypoint.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/63/ZMAKN2W94H6EWZNBRI4AZI.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/39/K2JZXW8JKFAPEVJLI8K71L.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/1V/KPLS8FTW7B9UVX8M3DBIQD.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/OV/NJMBZU0P7CROBYD5K2BR69.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/NS/YMTGMPSAWHD6HIT5B4WUNY.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/5R/8O7BT2I2FAMUOCG9IFQQ1I.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/QS/L9NDZBDJ791S4WSB5PQ6DZ.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Blueprints/AI_CHARACTER.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/QN/T5NAYD6T83I40QPSERSIV4.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/ST/PJHW49L4UQPUREG0QFROKE.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Blueprints/SoldierIA.uasset"
+			]
+		}
+	]
+}
