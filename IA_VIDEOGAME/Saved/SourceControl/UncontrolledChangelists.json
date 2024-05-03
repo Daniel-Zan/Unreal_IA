@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/usuario CSalaE6/Documents/Unreal Projects/IA_VIDEOGAME/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/IA_VIDEOGAME/Content/Blueprints/BP_AI_CHARACTER.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/IA_VIDEOGAME/Content/ThirdPerson/Blueprints/BP_AI_CHARACTER.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/IA_VIDEOGAME/Content/ThirdPerson/Blueprints/BP_AI_CONTROLLER.uasset",
+				"D:/usuario CSalaE6/Documents/Unreal Projects/IA_VIDEOGAME/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/CY/F9S64YE42POMWLUIVLGV2H.uasset"
+			]
+		}
+	]
+}
